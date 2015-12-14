@@ -1,0 +1,39 @@
+{
+  "name": "configurable-gulp-helper",
+  "version": "0.1.0",
+  "description": "Helper functions for configurable gulp recipes.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amobiz/configurable-gulp-helper.git"
+  },
+  "keywords": [
+    "configurable-gulp-recipe",
+    "configurable-gulp-recipes",
+    "recipe",
+    "recipes",
+    "helper",
+    "utility",
+    "plugin",
+    "plugins"
+  ],
+  "author": "Amobiz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amobiz/configurable-gulp-helper/issues"
+  },
+  "homepage": "https://github.com/amobiz/configurable-gulp-helper#readme",
+  "devDependencies": {
+    "mocha": "^2.3.4",
+    "mocha-cases": "^0.1.4"
+  },
+  "dependencies": {
+    "gulp-util": "^3.0.7"
+  }
+}
