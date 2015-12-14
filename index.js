@@ -1,5 +1,6 @@
 'use strict';
 
 module.exports = {
-	verify: require('./src/verify')
+	verifyConfiguration: require('./src/verify-configuration'),
+	verifyStreamPrerequisite: require('./src/stream-helper')
 };
