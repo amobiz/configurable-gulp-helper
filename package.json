@@ -1,5 +1,5 @@
 {
-  "name": "configurable-gulp-helper",
+  "name": "gulp-ccr-helper",
   "version": "0.1.0",
   "description": "Helper functions for configurable gulp recipes.",
   "main": "index.js",
@@ -11,9 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/amobiz/configurable-gulp-helper.git"
+    "url": "git+https://github.com/gulp-ccr/gulp-ccr-helper.git"
   },
   "keywords": [
+	"gulp",
+    "gulp 4.0",
+    "gulp-ccr",
     "configurable-gulp-recipe",
     "configurable-gulp-recipes",
     "recipe",
@@ -26,9 +29,9 @@
   "author": "Amobiz",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/amobiz/configurable-gulp-helper/issues"
+    "url": "https://github.com/gulp-ccr/gulp-ccr-helper/issues"
   },
-  "homepage": "https://github.com/amobiz/configurable-gulp-helper#readme",
+  "homepage": "https://github.com/gulp-ccr/gulp-ccr-helper#readme",
   "devDependencies": {
     "mocha": "^2.3.4",
     "mocha-cases": "^0.1.4"
