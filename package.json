@@ -1,7 +1,7 @@
 {
   "name": "gulp-ccr-helper",
   "version": "0.1.0",
-  "description": "Helper functions for configurable gulp recipes.",
+  "description": "Helper functions for Cascading Configurable Gulp Recipes for gulp-chef.",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -11,14 +11,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gulp-ccr/gulp-ccr-helper.git"
+    "url": "git+https://github.com/gulp-cookery/gulp-ccr-helper.git"
   },
   "keywords": [
 	"gulp",
     "gulp 4.0",
+	"gulp-cookery",
+	"gulp-chef",
     "gulp-ccr",
     "configurable-gulp-recipe",
     "configurable-gulp-recipes",
+	"cookery",
+	"chef",
     "recipe",
     "recipes",
     "helper",
@@ -29,9 +33,9 @@
   "author": "Amobiz",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gulp-ccr/gulp-ccr-helper/issues"
+    "url": "https://github.com/gulp-cookery/gulp-ccr-helper/issues"
   },
-  "homepage": "https://github.com/gulp-ccr/gulp-ccr-helper#readme",
+  "homepage": "https://github.com/gulp-cookery/gulp-ccr-helper#readme",
   "devDependencies": {
     "mocha": "^2.3.4",
     "mocha-cases": "^0.1.4"
