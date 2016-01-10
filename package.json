@@ -1,7 +1,7 @@
 {
-  "name": "gulp-ccr-helper",
+  "name": "gulp-ccr-stream-helper",
   "version": "0.1.0",
-  "description": "Helper functions for cascading configurable Gulp recipes for gulp-chef.",
+  "description": "Stream helper functions for cascading configurable Gulp recipes for gulp-chef.",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gulp-cookery/gulp-ccr-helper.git"
+    "url": "git+https://github.com/gulp-cookery/gulp-ccr-stream-helper.git"
   },
   "keywords": [
 	"gulp",
@@ -25,6 +25,7 @@
 	"chef",
     "recipe",
     "recipes",
+	"stream",
     "helper",
     "utility",
     "plugin",
@@ -33,15 +34,14 @@
   "author": "Amobiz",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gulp-cookery/gulp-ccr-helper/issues"
+    "url": "https://github.com/gulp-cookery/gulp-ccr-stream-helper/issues"
   },
-  "homepage": "https://github.com/gulp-cookery/gulp-ccr-helper#readme",
+  "homepage": "https://github.com/gulp-cookery/gulp-ccr-stream-helper#readme",
   "devDependencies": {
     "mocha": "^2.3.4",
     "mocha-cases": "^0.1.4"
   },
   "dependencies": {
-    "gulp-util": "^3.0.7",
-    "lodash": "^3.10.1"
+    "gulp-util": "^3.0.7"
   }
 }
