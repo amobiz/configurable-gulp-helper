@@ -1,2 +1,2 @@
 # gulp-ccr-helper
-Helper functions for Cascading Configurable Gulp Recipes for gulp-chef.
+Helper functions for cascading configurable Gulp recipes for gulp-chef.
