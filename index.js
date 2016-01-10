@@ -31,7 +31,7 @@ function helper(name) {
 	function runTask(context, task) {
 		var stream;
 
-		stream = task.run.call(context, done);
+		stream = task.call(context, done);
 		if (!isStream(stream)) {
 			// Since we are between streams, not inside a stream, it's ok to throw.
 			// According to the [Guidelines: Do not throw errors inside a stream]
