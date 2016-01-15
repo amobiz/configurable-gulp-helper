@@ -45,7 +45,7 @@ function helper(name) {
 		}
 
 		function isStream(target) {
-			return typeof target.pipe === 'function';
+			return target && typeof target.pipe === 'function';
 		}
 	}
 }
