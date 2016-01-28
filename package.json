@@ -1,7 +1,7 @@
 {
   "name": "gulp-ccr-stream-helper",
   "version": "0.1.0",
-  "description": "Stream helper functions for cascading configurable Gulp recipes for gulp-chef.",
+  "description": "Stream helper functions for cascading configurable gulp recipes for gulp-chef.",
   "main": "index.js",
   "directories": {
     "test": "test"
