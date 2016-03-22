@@ -80,3 +80,9 @@ module.exports = function () {
 };
 module.exports.type = 'stream';
 ```
+
+## License
+[MIT](https://opensource.org/licenses/MIT)
+
+## Author
+[Amobiz](https://github.com/amobiz)
